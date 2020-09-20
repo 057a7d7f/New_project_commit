@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600570828082.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6AD9999",
+    "lastKnownWriteTime" : 1600570834,
+    "last_content_update" : 1600570834790,
+    "path" : "C:/Users/asus/Desktop/RMarkdown/New_project_commit/test_1.R",
+    "project_path" : "test_1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
